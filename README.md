@@ -18,12 +18,12 @@ Este repositorio contiene un ejercicio grupal centrado en el ciclo completo de g
 ## 📂 Estructura del Repositorio
 El proyecto se organiza mediante los siguientes archivos clave:
 
-- tostador-cafe-raw2.db: Base de datos original con la información sin procesar para el análisis inicial.
-- CHULETA-RAW-A-NORMALIZADO.md: Guía metodológica que documenta el proceso de transformación de los datos.
-- Imagen_esquema_tablas.png: Representación visual del diagrama entidad-relación del proyecto.
-- creacion tablas.sql: Script DDL con la estructura de la base de datos normalizada.
-- preguntas Tostador.sql: Repositorio de consultas SQL diseñadas para extraer métricas de negocio.
-- Prueba presentacion.ipynb: Notebook principal que integra el código, las visualizaciones y la explicación del flujo de trabajo.
+    tostador-cafe-raw.db          : Base de datos original con la información sin procesar para el análisis inicial.
+    CHULETA-RAW-A-NORMALIZADO.md  : Guía metodológica que documenta el proceso de transformación de los datos.
+    Imagen_esquema_tablas.png     : Representación visual del diagrama entidad-relación del proyecto.
+    creacion tablas.sql           : Script DDL con la estructura de la base de datos normalizada.
+    preguntas Tostador.sql        : Repositorio de consultas SQL diseñadas para extraer métricas de negocio.
+    Prueba presentacion.ipynb     : Notebook principal que integra el código, las visualizaciones y la explicación del flujo de trabajo.
 
 ## 💡 Habilidades Demostradas
 
